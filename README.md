@@ -7,7 +7,7 @@ My solutions for Advent of Code 2022. This year I am using AoC to learn the Vim 
 Each day is contained in a package within the overall workspace. To automatically create a new day, run `./scripts/new-day.ps1` from the workspace root:
 
 ```
-> ./scripts/new-day.ps1 --day 01 --name name_of_day
+> ./scripts/new-day.ps1 01 name_of_day
 ```
 
 This scripts performs the following actions:
