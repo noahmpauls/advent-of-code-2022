@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+	"common",
+	"tools",
+]
+
+exclude = [
+	"template",
+]
