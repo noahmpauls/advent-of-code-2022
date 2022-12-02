@@ -1,0 +1,9 @@
+[package]
+name = "calorie_counting"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+common = { path = "../common" }
+# regex = "1"
+clap = { version = "4.0.29", features = ["derive"] }

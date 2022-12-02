@@ -3,6 +3,7 @@
 members = [
 	"common",
 	"tools",
+	"01_calorie_counting",
 ]
 
 exclude = [
