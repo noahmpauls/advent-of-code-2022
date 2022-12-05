@@ -1,0 +1,10 @@
+[package]
+name = "camp_cleanup"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+common = { path = "../common" }
+regex = "1"
+clap = { version = "4.0.29", features = ["derive"] }
+lazy_static = "1.4.0"
